@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+#*/data/*
+*/logs/*
+/data
+
+.github
+.idea
+hello.txt
